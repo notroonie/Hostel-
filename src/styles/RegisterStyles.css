@@ -1,0 +1,13 @@
+
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150vh;
+  text-align: center;
+  background-image: url("/public/bgimage.jpg"); /* Use a leading slash to indicate the root directory */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+

@@ -1,0 +1,18 @@
+/* Mainpage.css (create this file in the same folder as Mainpage.js) */
+
+.info-card {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .info-card h2 {
+    margin-bottom: 10px;
+  }
+  
+  .info-card p {
+    margin: 5px 0;
+  }
+  
